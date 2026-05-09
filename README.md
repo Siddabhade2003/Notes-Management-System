@@ -1,6 +1,7 @@
 # 📝 NotesVault — Notes Management System
 
 A full-stack Notes Management System built with **React**, **Node.js/Express**, and **MySQL**. Allows users to create, edit, delete, search, pin, and tag notes with a clean dark-themed UI.
+<img width="2880" height="1554" alt="image" src="https://github.com/user-attachments/assets/05cd2f13-2f78-45bb-90a6-28773ac39cf0" />
 
 ---
 
