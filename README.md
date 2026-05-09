@@ -85,7 +85,7 @@ Make sure you have these installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/notes-app.git
+git clone https://github.com/Siddabhade2003/Notes-Management-System.git
 cd notes-app
 ```
 
